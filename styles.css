@@ -1,0 +1,67 @@
+body{background-image:  url('chiran.jpg');
+background-size:cover;
+background-position:center;
+height:100vh;
+}
+
+    
+    h1{
+    border: 8px solid black;
+    
+    padding: 10px;
+    margin: 20;
+    color: white;
+    border-color: white;
+    text-align: center;
+font-family: "comic sans ms";
+}
+p{
+    color:rgb(255, 255, 255);
+    padding: 10px;
+    width:6%;
+    border-color: rgb(0, 2, 4);
+    border: 5px solid white;
+    text-align: center;
+    border-radius: 30%; background-color: black; 
+    cursor:pointer;
+    
+    
+    font-size:5 px;}
+nav a{
+    text-decoration: none;
+    color: rgb(10, 10, 10);
+    
+}
+nav a:hover{
+    background-color:rgb(210, 109, 109);
+    color:white;
+}
+h2{width:80%}
+.container{
+    display: flex;
+
+}
+
+.sidebar{ 
+margin: 20px;
+list-style-type:none;
+margin: 80;
+color: white;
+border-color: white;
+text-align:left;
+font-family: "comic sans ms";
+font-size: 30px;
+width:10vw;
+
+}
+
+
+.main{color:aliceblue;margin: 80;
+    color: rgb(14, 1, 1);
+    border-color: white;
+    text-align:center;
+    font-family: "comic sans ms";
+    width: 80vw;
+    
+    font-size:20px;
+}
